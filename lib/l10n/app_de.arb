@@ -1,3 +1,9 @@
 {
-  "helloWorld": "{count, plural, one{Hallo Welt!} other{Hallo Welten!}}"
+  "helloWorld": "{count, plural, one{Hallo Welt!} other{Hallo Welten!}}",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting",
+    "placeholders": {
+      "count": {}
+    }
+  }
 }
