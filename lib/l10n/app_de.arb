@@ -1,0 +1,3 @@
+{
+  "helloWorld": "{count, plural, one{Hallo Welt!} other{Hallo Welten!}}"
+}
